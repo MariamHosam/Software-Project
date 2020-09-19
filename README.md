@@ -23,9 +23,3 @@ To run the server, run the following command:
 * Both user and restaurant can check their history logs.
 * Pretty darn good UI.
 
-## Members
-* Sourav Pal [@sourav-roni](https://github.com/sourav-roni)
-* Sayan Mandal [@sayanmandal](https://github.com/sayanmandal)
-* Projjal Chanda [@Projjal](https://github.com/projjal)
-* Aditya Bhagwat [@Eraseread](https://github.com/Eraseread)
-* Kaustubh Hiware [@kaustubhhiware](https://github.com/kaustubhhiware)
